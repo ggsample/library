@@ -1,4 +1,3 @@
-_G.executorscache={AWP=true,Volt=true,Nihon=true,Potassium=true,Volcano=true,Hydrogen=true,MacSploit=true,Wave=true,Seliware=true,Chocosploit=true}if _G.executorscache[identifyexecutor()]then cleardrawcache()end
 local uis = game:GetService("UserInputService")
 local players = game:GetService("Players")
 local ws = game:GetService("Workspace")
